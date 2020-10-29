@@ -1,6 +1,6 @@
 # URLShortener
 
-This is a URL Shortener written in a Flask App.
+This is a URL Shortener written as a Flask App.
 
 It takes a post request on the route shorten_url.
 
