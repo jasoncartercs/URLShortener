@@ -9,6 +9,12 @@ The json should look like this:
 		"url": "abc.com"
 	}	
 
+It returns a json object that contains the response code the the shortened url:
+{
+    "code": 200,
+    "data": "https://r.com/ON0Euc"
+}
+
 This code stores information in one table using a SQLite database.
 
 The structure is: 
